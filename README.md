@@ -1,2 +1,2 @@
-# pathtoalpha
-Why You Are Not An Alpha Male...Yet
+# project
+Why.not.alpha
